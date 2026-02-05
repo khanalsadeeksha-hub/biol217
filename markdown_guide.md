@@ -58,3 +58,5 @@ Type work you want to be hyperlinked in [] and the link beind in ()
 * place the image inside it
 
 ![image](./images/your_image.png)
+
+![image](./pangenome.png) 
